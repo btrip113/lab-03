@@ -1,2 +1,3 @@
 "go spurs" 
-"go spurs go" 
+"go spurs go"
+"Go Bulls, Run with us"
